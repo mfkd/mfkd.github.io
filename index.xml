@@ -6,7 +6,18 @@
     <description>Recent content on Matthew Doherty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Aug 2021 20:08:59 +0200</lastBuildDate><atom:link href="https://mfkd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 18:12:52 +0200</lastBuildDate><atom:link href="https://mfkd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crossplane</title>
+      <link>https://mfkd.github.io/posts/crossplane/</link>
+      <pubDate>Fri, 20 Aug 2021 18:12:52 +0200</pubDate>
+      
+      <guid>https://mfkd.github.io/posts/crossplane/</guid>
+      <description>The Managed Resource is the CR that interfaces directly to the cloud infrastructure. It represents a unit of external infrastructure. It interfaces directly with the backing cloud provider.
+The Composite Resource (check wording) is the collection of one ore more managed resources that provides the platform engineer abstraction from the underlying complexities of the infrastructure.
+The Composite Resource claim is the means by which an application developer can dynamically request infrastructure with a simple abstraction that just expresses what he wants to get his work done.</description>
+    </item>
+    
     <item>
       <title>First post</title>
       <link>https://mfkd.github.io/posts/firstpost/</link>
@@ -17,14 +28,13 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>https://mfkd.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mfkd.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <description>I am a platform engineer at Anynines, where I work on building and designing Kubernetes control plane components for managing data services at scale. I am interested in thinking about distributed systems, Linux and security. My drive is in conceiving, designing, and improving systems that can make computers and organisations work better.
+Outside of that, I like mountain biking and high quality audio.</description>
     </item>
     
   </channel>
