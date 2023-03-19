@@ -6,14 +6,24 @@
     <description>Recent content on Matthew Doherty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Aug 2021 20:08:59 +0200</lastBuildDate><atom:link href="https://mfkd.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 20:08:59 +0200</lastBuildDate><atom:link href="https://mfkd.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post</title>
       <link>https://mfkd.github.io/posts/firstpost/</link>
-      <pubDate>Fri, 06 Aug 2021 20:08:59 +0200</pubDate>
+      <pubDate>Wed, 08 Mar 2023 20:08:59 +0200</pubDate>
       
       <guid>https://mfkd.github.io/posts/firstpost/</guid>
-      <description>Content of first post</description>
+      <description>Content coming soon :)</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://mfkd.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mfkd.github.io/about/</guid>
+      <description>I am a platform engineer at Anynines, where I work on building and designing Kubernetes control plane components for managing data services at scale. I am interested in thinking about distributed systems, Linux and security. My drive is in conceiving, designing, and improving systems that can make computers and organizations work better.
+Outside of that, I like mountain biking, running, being outdoors and high quality audio.</description>
     </item>
     
   </channel>
