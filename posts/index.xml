@@ -4,7 +4,7 @@
     <title>Posts on Matthew Doherty</title>
     <link>https://mfkd.github.io/posts/</link>
     <description>Recent content in Posts on Matthew Doherty</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 08 Mar 2023 20:08:59 +0200</lastBuildDate>
     <atom:link href="https://mfkd.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://mfkd.github.io/posts/firstpost/</link>
       <pubDate>Wed, 08 Mar 2023 20:08:59 +0200</pubDate>
       <guid>https://mfkd.github.io/posts/firstpost/</guid>
-      <description>Content coming soon :)</description>
+      <description>&lt;p&gt;Content coming soon :)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
